@@ -9,7 +9,7 @@
 Vanilla javaScript application to search actors by name 
 
   <p>
-    <a href="https://twin-peaks-actors.glitch.me/">View Demo Here</a>
+    <a href="">View Demo Here</a>
   </p>
 
 ## Built With
@@ -22,4 +22,4 @@ Vanilla javaScript application to search actors by name
 <p>All photo and video materials are used for educational purposes only.</p>
 <p>Application is responsive for all mobile devices.</p>
 
-Project Link: https://github.com/kateFrontend/Twin-Peaks-search-app
+Project Link: https://github.com/General-Bradley9608/Search-Actors-App  
